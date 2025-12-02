@@ -2,7 +2,7 @@
 kNN implementation in Python
 
 Following steps should be performed before running the code:
-1. The correct training data set (any 10-dobscv) should be downloaded from <a href="http://sci2s.ugr.es/keel/category.php?cat=clas">keel</a>. 
+1. The correct training data set (any 10-dobscv) should be downloaded from <a href="blob:https://web.whatsapp.com/72f51f18-18c7-4166-8af8-ff2c1028c3cf">keel</a>. 
 Any dataset would work (recommended is heart or banana, have included them in the repo).
 Extract the zip and copy the data folder besides the shantanu_deshmukh_knn.py file 
 
